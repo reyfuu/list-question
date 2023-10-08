@@ -1,0 +1,6 @@
+#pertanyaan
+
+1. ainya sudah di download untuk yang 7b, apkah masih harus download yang lain karena proses downloadnya lumayan lama dan linknya cuma ada untuk 24 jam
+2. setalh check di github issue ternyata bila memory untuk parameter 7 keatas memakan memori sampai 32 GB dan itu harus kosong semua
+3. sudah bisa pakai docker dengan ui namun cukup berat untuk runnya os dengan ui
+4. ada layar / bisa buat pc test lagi. tugasnya untuk download repositori saja
