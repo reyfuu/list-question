@@ -1,6 +1,14 @@
 #pertanyaan
 
-1. ainya sudah di download untuk yang 7b, apkah masih harus download yang lain karena proses downloadnya lumayan lama dan linknya cuma ada untuk 24 jam
-2. setalh check di github issue ternyata bila memory untuk parameter 7 keatas memakan memori sampai 32 GB dan itu harus kosong semua
-3. sudah bisa pakai docker dengan ui namun cukup berat untuk runnya os dengan ui
-4. ada layar / bisa buat pc test lagi. tugasnya untuk download repositori saja
+1. ainya sudah di download untuk yang 7b, apkah masih harus download yang lain karena proses downloadnya lumayan lama dan 
+linknya cuma ada untuk 24 jam
+2. setelah check di github issue ternyata bila memory untuk parameter 7 keatas memakan memori sampai 32 GB dan itu harus kosong semua
+3. sudah bisa pakai docker dengan ui namun cukup berat untuk runnya os dengan ui --> 
+4. ada layar / bisa buat pc test lagi. tugasnya untuk download repositori saja --> bikin unofficial report 
+
+solution:
+4. xming-> ip server . setting konfigurasu credential 
+remote login / multi user. x11 untuk solusi
+besok follow up ke lancar audio untuk testing dan minta didahulukan supaya project bisa cepat dimulai
+solusi 3 gunakan kvm
+
